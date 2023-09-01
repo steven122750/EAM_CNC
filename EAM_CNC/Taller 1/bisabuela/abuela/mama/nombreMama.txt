@@ -1,0 +1,3 @@
+nombre: Cristina
+apellido: perez
+cm: 1.63

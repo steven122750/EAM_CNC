@@ -1,0 +1,3 @@
+nombre: Jertrudis 
+apellido: Perez
+cm: 1.50 

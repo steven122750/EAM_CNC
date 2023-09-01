@@ -1,0 +1,3 @@
+nombre: Rosemberg
+Apellidos: Cardona
+cm: 1.76
